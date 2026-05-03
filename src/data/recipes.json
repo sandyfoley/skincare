@@ -14,6 +14,29 @@
     ],
     "steps": []
   },
+    {
+    "id": "neck-patch",
+    "title": "Neck Silicone Patch",
+    "subtitle": "Collagen stimulation, 2–4x per week",
+    "image": "/skincare/images/right-apothecary-cabinet.png",
+    "textSide": "right",
+    "wide": true,
+    "ingredients": [
+      "The Ordinary Caffeine Solution 5% (purchased)",
+      "Copper peptide serum (purchased)",
+      "Your choice of one collagen active: Retinol, DIY Vitamin C serum, or Peptides",
+      "Silicone neck patch"
+    ],
+    "steps": [
+      "Step 1 — Cleanse & dry the neck area completely before any actives.",
+      "Step 2 — Caffeine first (optional, circulation prep): Apply 2–3 drops of The Ordinary Caffeine Solution 5% to the neck. Pat gently — do not rub. Let absorb fully, about 60–90 seconds. This primes microcirculation before your active.",
+      "Step 3 — Choose your collagen active based on your rotation schedule. On Vitamin C nights: apply 3–4 drops of your DIY Vitamin C serum. On Retinol nights: use a pea-sized amount of gentle retinol. On Copper Peptide nights: apply 2–3 drops of copper peptide serum. NOTE — never use Vitamin C and copper peptides on the same night. They counteract each other. Alternate them across your weekly rotation.",
+      "Step 4 — Let your chosen active absorb for 2–3 minutes before the next step.",
+      "Step 5 — Apply silicone patch firmly over the neck area. Leave on for a minimum of 30 minutes, or overnight for best results.",
+      "Step 6 — After removing patch, gently pat any remaining serum into skin. Follow with your moisturizer or HA serum if desired.",
+      "Suggested weekly rotation: Monday — Vitamin C. Wednesday — Copper Peptides. Friday — Retinol. Adjust based on your skin's tolerance."
+    ]
+  },
   {
     "id": "vitamin-c-serum",
     "title": "Vitamin C Serum",
@@ -70,29 +93,6 @@
       "Stir in jojoba and rosehip oil",
       "Add beetroot powder",
       "Cool and then bottle"
-    ]
-  },
-  {
-    "id": "neck-patch",
-    "title": "Neck Silicone Patch Treatment",
-    "subtitle": "Collagen stimulation, 2–4x per week",
-    "image": "/skincare/images/right-apothecary-cabinet.png",
-    "textSide": "right",
-    "wide": true,
-    "ingredients": [
-      "The Ordinary Caffeine Solution 5% (purchased)",
-      "Copper peptide serum (purchased)",
-      "Your choice of one collagen active: Retinol, DIY Vitamin C serum, or Peptides",
-      "Silicone neck patch"
-    ],
-    "steps": [
-      "Step 1 — Cleanse & dry the neck area completely before any actives.",
-      "Step 2 — Caffeine first (optional, circulation prep): Apply 2–3 drops of The Ordinary Caffeine Solution 5% to the neck. Pat gently — do not rub. Let absorb fully, about 60–90 seconds. This primes microcirculation before your active.",
-      "Step 3 — Choose your collagen active based on your rotation schedule. On Vitamin C nights: apply 3–4 drops of your DIY Vitamin C serum. On Retinol nights: use a pea-sized amount of gentle retinol. On Copper Peptide nights: apply 2–3 drops of copper peptide serum. NOTE — never use Vitamin C and copper peptides on the same night. They counteract each other. Alternate them across your weekly rotation.",
-      "Step 4 — Let your chosen active absorb for 2–3 minutes before the next step.",
-      "Step 5 — Apply silicone patch firmly over the neck area. Leave on for a minimum of 30 minutes, or overnight for best results.",
-      "Step 6 — After removing patch, gently pat any remaining serum into skin. Follow with your moisturizer or HA serum if desired.",
-      "Suggested weekly rotation: Monday — Vitamin C. Wednesday — Copper Peptides. Friday — Retinol. Adjust based on your skin's tolerance."
     ]
   },
   {
@@ -156,5 +156,5 @@
       "Stir until dissolved",
       "Add oils"
     ]
-  },
+  }
 ]
