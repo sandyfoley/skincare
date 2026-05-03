@@ -3,7 +3,7 @@
     "id": "frownies",
     "title": "Forehead Patches",
     "subtitle": "Stable for 2–3 months",
-    "image": "/images/left-powders.png",
+    "image": "/skincare/images/left-powders.png",
     "textSide": "left",
     "ratio": "Gum Arabic : Hyaluronic Acid : Stable Vitamin C = 10 : 1 : 1",
     "ingredients": [
@@ -18,7 +18,7 @@
     "id": "vitamin-c-serum",
     "title": "Vitamin C Serum",
     "subtitle": "2 oz — Spoon Version",
-    "image": "/images/left-shelves.png",
+    "image": "/skincare/images/left-shelves.png",
     "textSide": "left",
     "ingredients": [
       "2 tbsp + 2 tsp distilled water",
@@ -37,7 +37,7 @@
     "id": "hyaluronic-serum",
     "title": "Hyaluronic Acid Serum",
     "subtitle": "~2 oz (60 mL)",
-    "image": "/images/right-ampoules.png",
+    "image": "/skincare/images/right-ampoules.png",
     "textSide": "right",
     "ingredients": [
       "60 mL (4 tbsp) distilled water",
@@ -57,7 +57,7 @@
     "id": "neck-patch",
     "title": "Neck Silicone Patch Treatment",
     "subtitle": "Collagen stimulation, 2–4x per week",
-    "image": "/images/right-apothecary-cabinet.png",
+    "image": "/skincare/images/right-apothecary-cabinet.png",
     "textSide": "right",
     "wide": true,
     "ingredients": [
@@ -80,7 +80,7 @@
     "id": "hand-serum",
     "title": "Mini Hand Repair Serum",
     "subtitle": "1 oz",
-    "image": "/images/right-slate.png",
+    "image": "/skincare/images/right-slate.png",
     "textSide": "right",
     "ingredients": [
       "1 tbsp jojoba oil",
@@ -100,7 +100,7 @@
     "id": "massage-serum",
     "title": "Massage Serum",
     "subtitle": "2–3 uses worth",
-    "image": "/images/left-powders.png",
+    "image": "/skincare/images/left-powders.png",
     "textSide": "left",
     "ingredients": [
       "1 tbsp jojoba oil",
