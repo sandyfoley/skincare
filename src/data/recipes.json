@@ -54,6 +54,25 @@
     ]
   },
   {
+    "id": "lip-tint",
+    "title": "Beetroot Lip Tint",
+    "subtitle": "roll-on applicator",
+    "image": "/skincare/images/left_beetroot.png",
+    "textSide": "left",
+    "ingredients": [
+      "1/2 t shea butter",
+      "1/2 t jojoba oil",
+      "1/8 t beetroot powder",
+      "1 drop rosehip oil"
+    ],
+    "steps": [
+      "Melt shea butter",
+      "Stir in jojoba and rosehip oil",
+      "Add beetroot powder",
+      "Cool and then bottle"
+    ]
+  },
+  {
     "id": "neck-patch",
     "title": "Neck Silicone Patch Treatment",
     "subtitle": "Collagen stimulation, 2–4x per week",
