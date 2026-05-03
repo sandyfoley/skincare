@@ -1,0 +1,119 @@
+[
+  {
+    "id": "frownies",
+    "title": "Frownies Patches",
+    "subtitle": "Stable for 2–3 months",
+    "image": "/images/left-powders.png",
+    "textSide": "left",
+    "ratio": "Gum Arabic : Hyaluronic Acid : Stable Vitamin C = 10 : 1 : 1",
+    "ingredients": [
+      "1 teaspoon gum arabic powder",
+      "⅛ teaspoon hyaluronic acid powder",
+      "⅛ teaspoon Vitamin C powder",
+      "1–1.5 teaspoons distilled water"
+    ],
+    "steps": []
+  },
+  {
+    "id": "vitamin-c-serum",
+    "title": "Vitamin C Serum",
+    "subtitle": "2 oz — Spoon Version",
+    "image": "/images/left-shelves.png",
+    "textSide": "left",
+    "ingredients": [
+      "2 tbsp + 2 tsp distilled water",
+      "~2 level teaspoons Vitamin C powder",
+      "1 teaspoon vegetable glycerin",
+      "~¼ teaspoon (or ~20 drops) Vitamin E oil"
+    ],
+    "steps": [
+      "Add water",
+      "Stir in Vitamin C powder until fully dissolved",
+      "Add glycerin + Vitamin E",
+      "Bottle it up"
+    ]
+  },
+  {
+    "id": "hyaluronic-serum",
+    "title": "Hyaluronic Acid Serum",
+    "subtitle": "~2 oz (60 mL)",
+    "image": "/images/right-ampoules.png",
+    "textSide": "right",
+    "ingredients": [
+      "60 mL (4 tbsp) distilled water",
+      "20 mL (~1 tbsp + 1 tsp) aloe vera juice",
+      "2 mL (~½ tsp) glycerin",
+      "0.45 g (~0.5%) hyaluronic acid powder",
+      "4.5 g (~1 tsp) Vitamin C (L-ascorbic acid)",
+      "10–15 drops Vitamin E oil"
+    ],
+    "steps": [
+      "Step 1 — Hydrate the HA (DO THIS FIRST): Combine distilled water + aloe + glycerin. Slowly sprinkle in HA powder. Let sit 4–12 hours — don't rush it. You'll get a smooth gel base.",
+      "Step 2 — Add Vitamin C: Once gel is formed, stir in Vitamin C powder. Mix until fully dissolved. It may thin slightly — totally normal.",
+      "Step 3 — Finish: Add Vitamin E (optional). Bottle in amber or dark glass."
+    ]
+  },
+  {
+    "id": "neck-patch",
+    "title": "Neck Silicone Patch Treatment",
+    "subtitle": "Collagen stimulation, 2–4x per week",
+    "image": "/images/right-apothecary-cabinet.png",
+    "textSide": "right",
+    "wide": true,
+    "ingredients": [
+      "The Ordinary Caffeine Solution 5% (purchased)",
+      "Copper peptide serum (purchased)",
+      "Your choice of one collagen active: Retinol, DIY Vitamin C serum, or Peptides",
+      "Silicone neck patch"
+    ],
+    "steps": [
+      "Step 1 — Cleanse & dry the neck area completely before any actives.",
+      "Step 2 — Caffeine first (optional, circulation prep): Apply 2–3 drops of The Ordinary Caffeine Solution 5% to the neck. Pat gently — do not rub. Let absorb fully, about 60–90 seconds. This primes microcirculation before your active.",
+      "Step 3 — Choose your collagen active based on your rotation schedule. On Vitamin C nights: apply 3–4 drops of your DIY Vitamin C serum. On Retinol nights: use a pea-sized amount of gentle retinol. On Copper Peptide nights: apply 2–3 drops of copper peptide serum. NOTE — never use Vitamin C and copper peptides on the same night. They counteract each other. Alternate them across your weekly rotation.",
+      "Step 4 — Let your chosen active absorb for 2–3 minutes before the next step.",
+      "Step 5 — Apply silicone patch firmly over the neck area. Leave on for a minimum of 30 minutes, or overnight for best results.",
+      "Step 6 — After removing patch, gently pat any remaining serum into skin. Follow with your moisturizer or HA serum if desired.",
+      "Suggested weekly rotation: Monday — Vitamin C. Wednesday — Copper Peptides. Friday — Retinol. Adjust based on your skin's tolerance."
+    ]
+  },
+  {
+    "id": "hand-serum",
+    "title": "Mini Hand Repair Serum",
+    "subtitle": "1 oz",
+    "image": "/images/right-slate.png",
+    "textSide": "right",
+    "ingredients": [
+      "1 tbsp jojoba oil",
+      "1 tsp glycerin",
+      "10 drops Vitamin E",
+      "Retinol (optional, instead of jojoba)",
+      "3–5 drops neroli essential oil (optional, light)"
+    ],
+    "steps": [
+      "Combine jojoba oil and glycerin",
+      "Add Vitamin E drops",
+      "Add neroli if using",
+      "Mix gently and bottle"
+    ]
+  },
+  {
+    "id": "massage-serum",
+    "title": "Massage Serum",
+    "subtitle": "2–3 uses worth",
+    "image": "/images/left-powders.png",
+    "textSide": "left",
+    "ingredients": [
+      "1 tbsp jojoba oil",
+      "1 tsp rosehip oil (or more jojoba)",
+      "5–10 drops Vitamin E oil",
+      "3–5 drops glycerin (optional)",
+      "4 drops grapefruit or bergamot essential oil"
+    ],
+    "steps": [
+      "Combine jojoba and rosehip oils",
+      "Add Vitamin E and glycerin",
+      "Add essential oils last",
+      "Mix gently — use within a few days"
+    ]
+  }
+]
