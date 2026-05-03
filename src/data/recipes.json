@@ -134,5 +134,27 @@
       "Add essential oils last",
       "Mix gently — use within a few days"
     ]
-  }
+  },
+  {
+    "id": "cheek-tint",
+    "title": "Beetroot Cheek Tint",
+    "subtitle": "roll-on applicator",
+    "image": "/skincare/images/right_beetroot.png",
+    "textSide": "right",
+    "ingredients": [
+      "1 T witch hazel",
+      "1 T distilled water",
+      "1/2 t hyaluronic acid powder",
+      "1/8 t beetroot powder",
+      "1/4 t jojoba oil",
+      "2-3 drops rosehip oil"
+    ],
+    "steps": [
+      "Combine witch hazel, water, HA powder",
+      "Let sit 15 minutes",
+      "Add beetroot powder",
+      "Stir until dissolved",
+      "Add oils"
+    ]
+  },
 ]
